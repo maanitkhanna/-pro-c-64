@@ -1,1 +1,1 @@
-# -pro-c-64
+# c64project
